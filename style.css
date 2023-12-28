@@ -33,3 +33,9 @@
 .meme-generator .meme-author{
   
 }
+
+.memekid{
+ width: 200px;
+ height: 200px;
+ position: sticky;
+}
