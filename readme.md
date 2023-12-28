@@ -1,11 +1,11 @@
-# Image Generator
+# Meme Generator
 
 > Bu projeyi JavaScript pratiği yapmak için oluşturdum.
 
 > Canlı Proje [_tıkla_](https://meme-generator-delta-self.vercel.app/).
 
 ## İçerik
-- [Image Generator](#image-generator)
+- [Meme Generator](#meme-generator)
   - [İçerik](#i̇çerik)
   - [Genel Bilgi](#genel-bilgi)
   - [Kullanılan Teknolojiler](#kullanılan-teknolojiler)
