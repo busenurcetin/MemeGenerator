@@ -31,7 +31,7 @@ Projeyi klonladıktan sonra live server kullanarak localinizde çalıştırabili
 
 
 ## Projeye Bakış
-![Bakış](images/index.jpg)
+![Bakış](images/image.jpeg)
 
 
 ## Proje Durumu
